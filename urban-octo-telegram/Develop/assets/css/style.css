@@ -51,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero Styliization*/
 .hero img {
     height: 800px;
     width: 100%;
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/*benefits stylization*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +104,7 @@ p {
     max-width: 150px;
 }
 
+/*content stylization*/
 .content article {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +122,7 @@ p {
     font-size: 36px;
 }
 
+/*footer stylization*/
 .footer {
     padding: 30px;
     clear: both;
